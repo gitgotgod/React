@@ -1,4 +1,6 @@
 .Toggler {
     font-size: 5rem;
     cursor: pointer;
+    border-radius: 50rem;
+    border-collapse: inherit;
 }
