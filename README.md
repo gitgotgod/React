@@ -1,5 +1,9 @@
-# React + Vite
+# React Practice
 
+Using this repo as a place to keep track of all of the smaller practice files using components, props, and state
+
+
+----------
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
